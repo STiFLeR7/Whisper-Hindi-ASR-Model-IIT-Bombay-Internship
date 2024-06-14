@@ -24,7 +24,7 @@ Lower WER values indicate higher accuracy, with a perfect score of 0 indicating 
 
 Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
 
-![approach](D:\IIT__BOMBAY\Whisper-Hindi-ASR-model-IIT-Bombay-Internship-main\Whisper-Hindi-ASR-model-IIT-Bombay-Internship-main\assets\1.png)
+![approach]([D:\IIT__BOMBAY\Whisper-Hindi-ASR-model-IIT-Bombay-Internship-main\Whisper-Hindi-ASR-model-IIT-Bombay-Internship-main\assets\1.png](https://github.com/STiFLeR7/Whisper-Hindi-ASR-Model-IIT-Bombay-Internship/blob/master/1.png))
 
 A Transformer sequence-to-sequence model is trained on various speech processing tasks, including multilingual speech recognition, speech translation, spoken language identification, and voice activity detection. These tasks are jointly represented as a sequence of tokens to be predicted by the decoder, allowing a single model to replace many stages of a traditional speech-processing pipeline. The multitask training format uses a set of special tokens that serve as task specifiers or classification targets.
 
