@@ -1,0 +1,25 @@
+numba
+numpy
+tqdm
+more-itertools
+tiktoken
+triton>=2.0.0,<3;platform_machine=="x86_64" and sys_platform=="linux" or sys_platform=="linux2"
+regex
+webrtcvad==2.0.10
+youtube-dl==2021.6.6
+pydub==0.25.1
+git+https://github.com/yt-dlp/yt-dlp.git
+git+https://github.com/huggingface/transformers
+git+https://github.com/huggingface/datasets
+git+https://github.com/anoopkunchukuttan/indic_nlp_library.git
+torch>=1.7
+torchaudio
+librosa
+jiwer
+evaluate>=0.3
+tensorboard
+deepspeed
+accelerate
+edit_distance
+termcolor
+flake8
